@@ -1,0 +1,6 @@
+﻿  main.c
+e:\programs\vs\数独求解器\数独求解器\main.c(96): warning C4047: “=”:“HANDLE”与“uintptr_t”的间接级别不同
+  正在生成代码
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  数独求解器.vcxproj -> E:\Programs\vs\数独求解器\Release\数独求解器.exe

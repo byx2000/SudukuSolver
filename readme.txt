@@ -1,0 +1,1 @@
+Run "Release\Êý¶ÀÇó½âÆ÷.exe"
